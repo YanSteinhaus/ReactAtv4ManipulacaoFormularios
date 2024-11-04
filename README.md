@@ -30,18 +30,14 @@
 
  Para rodar este projeto, você precisará ter o Node.js e o npm instalados. Siga os passos abaixo:
 
- 1. Clone este repositório:
-    ```bash
-    git clone <URL do repositório>
-    cd ManipulaComponente/ComponentManipulation
-    ```
 
- 2. Instale as dependências:
+
+ 1. Instale as dependências:
     ```bash
     npm install
     ```
 
- 3. Inicie a aplicação:
+ 2. Inicie a aplicação:
     ```bash
     npm start
     ```
